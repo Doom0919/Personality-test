@@ -1,15 +1,25 @@
 {
   "files": {
     "main.css": "/Personality-test/static/css/main.277d81cd.css",
-    "main.js": "/Personality-test/static/js/main.6190a087.js",
+    "main.js": "/Personality-test/static/js/main.99f1fbbf.js",
     "static/js/453.d7446e4a.chunk.js": "/Personality-test/static/js/453.d7446e4a.chunk.js",
+    "static/media/img6.png": "/Personality-test/static/media/img6.f9a20de8f01276b47d13.png",
+    "static/media/img8.webp": "/Personality-test/static/media/img8.4caf401b58c21c839588.webp",
+    "static/media/img7.webp": "/Personality-test/static/media/img7.2052e507fff34c4e1c7c.webp",
+    "static/media/img4.webp": "/Personality-test/static/media/img4.4e3accb61029cab0c2bd.webp",
+    "static/media/img3.webp": "/Personality-test/static/media/img3.4fafd813aa2bc1a8d25c.webp",
+    "static/media/img1.webp": "/Personality-test/static/media/img1.829fcd8a056bbb69b71e.webp",
+    "static/media/img10.jpg": "/Personality-test/static/media/img10.c071c18a8a9f248cefa5.jpg",
+    "static/media/img5.jpg": "/Personality-test/static/media/img5.0669523e082acd87e607.jpg",
+    "static/media/img9.webp": "/Personality-test/static/media/img9.97fcf4122bc3cee8e889.webp",
+    "static/media/img2.webp": "/Personality-test/static/media/img2.6cea999d8e2f03ceb83e.webp",
     "index.html": "/Personality-test/index.html",
     "main.277d81cd.css.map": "/Personality-test/static/css/main.277d81cd.css.map",
-    "main.6190a087.js.map": "/Personality-test/static/js/main.6190a087.js.map",
+    "main.99f1fbbf.js.map": "/Personality-test/static/js/main.99f1fbbf.js.map",
     "453.d7446e4a.chunk.js.map": "/Personality-test/static/js/453.d7446e4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.277d81cd.css",
-    "static/js/main.6190a087.js"
+    "static/js/main.99f1fbbf.js"
   ]
 }
